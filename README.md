@@ -1,6 +1,6 @@
-# fruitcheck
+# Cerebra.id (Bintaro Checker)
 
-A new Flutter project.
+Aplikasi untuk mendeteksi bintaro
 
 ## Getting Started
 
