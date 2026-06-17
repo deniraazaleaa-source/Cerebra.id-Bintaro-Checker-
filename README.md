@@ -1,6 +1,6 @@
-# Cerebra.id (Bintaro Checker)
+# Cerebra.id - Bintaro Fruit Checker
 
-Aplikasi untuk mendeteksi bintaro
+Aplikasi cerdas berbasis machine learning untuk mendeteksi kematangan buah bintaro.
 
 ## Getting Started
 
